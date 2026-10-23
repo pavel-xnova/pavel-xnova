@@ -28,5 +28,5 @@ For questions or collaboration, <a href="https://xnova.dev/contacts/">contact XN
 
 - <a href="https://github.com/xnova-tech">XNova on GitHub</a>
 - <a href="https://medium.com/@xnova.dev">XNova on Medium</a>
-- <a href="https://www.linkedin.com/in/pavel-nova-3abb62444/">Pavel Nova on LinkedIn</a>
+- <a href="https://www.linkedin.com/in/pavel-nova-176653446/">Pavel Nova on LinkedIn</a>
 
